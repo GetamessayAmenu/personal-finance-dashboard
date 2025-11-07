@@ -42,7 +42,3 @@ pip install -r requirements.txt
 cd ../frontend
 npm install
 npm run dev
-
-
-
-This is a minimal starter React app. It expects the backend to be running on http://localhost:8000
